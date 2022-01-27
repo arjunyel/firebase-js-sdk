@@ -22,9 +22,7 @@
       "esm5": "./dist/index.esm5.js",
       "default": "./dist/index.esm2017.js"
     },
-    "./standalone": {
-      "node": "./dist/index.standalone.js"
-    },
+    "./standalone": "./dist/index.standalone.js",
     "./package.json": "./package.json"
   },
   "scripts": {
